@@ -108,7 +108,7 @@ $ npm run dev
 ---
 
 
-> GitHub https://github.com/Froxerr &nbsp;&middot;&nbsp;
-> GitHub https://github.com/NURSENAKTAS &nbsp;&middot;&nbsp;
-> LinkedIn https://www.linkedin.com/in/ibrahim-aral-99804a344/
+> GitHub https://github.com/Froxerr &nbsp;&middot;&nbsp; <br>
+> LinkedIn https://www.linkedin.com/in/ibrahim-aral-99804a344/ <br>
+> GitHub https://github.com/NURSENAKTAS &nbsp;&middot;&nbsp; <br>
 > LinkedIn https://www.linkedin.com/in/nurşen-aktaş-329193303/
