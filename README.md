@@ -30,11 +30,6 @@
   <a href="#nasıl-kullanılır">Nasıl Kullanılır</a> 
 </p>
 
-<div align="center">
-  <img src="https://github.com/yourusername/wedding_organization/blob/main/public/assets/img/animation.gif" alt="Düğün Organizasyon Sistemi">
-</div>
-
-
 
 <h2 id="temel-özellikler">Temel Özellikler</h2>
 
